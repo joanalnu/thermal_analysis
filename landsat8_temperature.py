@@ -1,4 +1,4 @@
-# Compute the surface temperature in ºC using B10 Landsat-8 data
+# Compute the surface temeprature in ºC using B10 Landsat-8 data
 
 # import required libraries
 from osgeo import gdal
@@ -56,44 +56,13 @@ def  compute_surface_temperature(file_path):
     plt.show()
 
 
-
-
-# SAMPLE
-# # island volcano
-# 'IS_LANDSAT_8-LC08_L2SP_220015_20230718_20230802_02_T1_ST_B10.TIF',
-# 'IS_LANDSAT_8-LC08_L2SP_221015_20240422_20240430_02_T1_ST_B10.TIF',
-
-# # la palma island
-# 'LP_LANDSAT_8-LC08_L2SP_207040_20231230_20240109_02_T1_ST_B10.TIF',
-
-# # munich
-# 'MU_LANDSAT_8/LC08_L2SP_193026_20240129_20240207_02_T1_ST_B10.TIF',
-
-# # shanghai
-# 'SH_LANDSAT_8-LC08_L2SP_118040_20240811_20240815_02_T1_ST_B10.TIF',
-# 'SH_LANDSAT_8-LC08_L2SP_121038_20240901_20240906_02_T1_ST_B10.TIF',
-
-# # random
-# 'LC08_L2SP_193026_20240824_20240831_02_T1_ST_B10.TIF'
-
-
-
-
 # SINGLE FILE
 file_path = './SH_LANDSAT_8/LC08_L2SP_121038_20240901_20240906_02_T1_ST_B10.TIF'
 compute_surface_temperature(file_path)
 
 
-
-
 # MULTIPLE FILES
-# files = ['IS_LANDSAT_8/LC08_L2SP_220015_20230718_20230802_02_T1_ST_B10.TIF',
-#         'IS_LANDSAT_8/LC08_L2SP_221015_20240422_20240430_02_T1_ST_B10.TIF',
-#         'LP_LANDSAT_8/LC08_L2SP_207040_20231230_20240109_02_T1_ST_B10.TIF',
-#         'MU_LANDSAT_8/LC08_L2SP_193026_20240129_20240207_02_T1_ST_B10.TIF',
-#         'SH_LANDSAT_8/LC08_L2SP_118040_20240811_20240815_02_T1_ST_B10.TIF',
-#         'SH_LANDSAT_8/LC08_L2SP_121038_20240901_20240906_02_T1_ST_B10.TIF',
-#         'LC08_L2SP_193026_20240824_20240831_02_T1_ST_B10.TIF']
+# files = [] # Update with your files
     
 # for file_path in files:
 #     compute_surface_temperature(file_path)
