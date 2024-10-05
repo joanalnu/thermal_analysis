@@ -2,7 +2,6 @@
 Computing surface temperature from LandSat-8 images based on GDAL Python library.
 
 [![repo](https://img.shields.io/badge/GitHub-thermal_analysis-blue.svg?style=flat)](https://github.com/joanalnu/thermal_analysis)
-[![license](http://img.shields.io/badge/license-AGPL.svg?style=flat)](https://github.com/joanalnu/thermal_analysis/LICENSE)
 ![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue)
 
 ## Copyright
