@@ -8,8 +8,8 @@ Computing surface temperature from LandSat-8 images based on GDAL Python library
 ## Copyright
 This repository is protected under the [GitHub Licensing Notice](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) default copyright laws, meaning that the repository owner retains all the rights to this source code and no one may reproduce, distribute, or create derivate works from your work.
 
-
-When using any code or files from this repository (modified or not) you must provide the adequate citation.
+## Citation
+Please, use this citation when referring to this repository, source code, modified and derivative versions of it.
 
 ```bibtex
 @software{joanalnu_2024b,
