@@ -23,4 +23,10 @@ Please, use this citation when referring to this repository, source code, modifi
 }
 ```
 
+## Acknowledge
+I would like to thank Maximilan Langheinrich for feedback.
+
+Also, I acknowledge the use of the following python libraries: gdal, numpy, matplotlib, and os
+
+
 &copy; 2024 joanalnu (Joan Alcaide-Núñez). All rights reserved.
