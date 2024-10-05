@@ -5,8 +5,11 @@ Computing surface temperature from LandSat-8 images based on GDAL Python library
 [![license](http://img.shields.io/badge/license-AGPL.svg?style=flat)](https://github.com/joanalnu/thermal_analysis/LICENSE)
 ![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue)
 
-## Citation
-When using any code or files from this repository (modified or not) you must provide the adequate citation as required by the GNU AGPL v3.0 license agreement, which this repository is under of.
+## Copyright
+This repository is protected under the [GitHub Licensing Notice](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) default copyright laws, meaning that the repository owner retains all the rights to this source code and no one may reproduce, distribute, or create derivate works from your work.
+
+
+When using any code or files from this repository (modified or not) you must provide the adequate citation.
 
 ```bibtex
 @software{joanalnu_2024b,
@@ -20,3 +23,5 @@ When using any code or files from this repository (modified or not) you must pro
   url          = {https://github.com/joanalnu/thermal_analysis}
 }
 ```
+
+&copy; 2024 joanalnu (Joan Alcaide-Núñez). All rights reserved.
