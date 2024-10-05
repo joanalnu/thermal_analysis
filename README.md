@@ -1,4 +1,4 @@
-# thermal_analysis
+# Thermal Analysis
 Computing surface temperature from LandSat-8 images.
 
 [![repo](https://img.shields.io/badge/GitHub-thermal_analysis-blue.svg?style=flat)](https://github.com/joanalnu/thermal_analysis)
