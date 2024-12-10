@@ -2,7 +2,8 @@
 # Copyright: 2024 Joan Alcaide-Núñez. All rights reserved.
 
 # import required libraries
-from osgeo import gdal
+import gdal
+# from osgeo import gdal
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec

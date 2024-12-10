@@ -1,3 +1,16 @@
 # OS essentials
 .DS_Store
 .venv
+
+# build
+build/
+.pycache
+
+# testing
+tests/LC08_L2SP_193026_20240824_20240831_02_T1_ST_B10.TIF
+tests/test-example.TIF
+tests/__pycache__
+.pytest_cache
+
+# original scripts
+original/
