@@ -3,7 +3,8 @@ Computing surface temperature heatmaps using LandSat-8 publicly available images
 
 [![repo](https://img.shields.io/badge/GitHub-thermal_analysis-blue.svg?style=flat)](https://github.com/joanalnu/thermal_analysis)
 ![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue)
-
+<!--![Build Status](https://github.com/joanalnu/thermal_analysis/actions/workflows/python-tests.yml/badge.svg)
+![Open Issues](https://img.shields.io/github/issues/joanalnu/thermal_analysis)-->
 
 # Installation
 To use the code in this repository you can clone it running the following command in your shell.
@@ -56,8 +57,7 @@ import thermal_analysis as ta
 # Copyright
 #### **This repository is protected under the default copyright laws, meaning that the repository owner retains all the rights to this source code and no one may reproduce, distribute, or create derivative works from this work. [GitHub Licensing Notice](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)**
 
-
-Please, contact me at [joanalnu@outlook.com](mailto:joanalnu@outlook.com) to consider any collaboration or licensing requests. I'll be happy to get to know you and work together.
+If you're are seeking to collaborate please refer to the [colaborating guidelines](https://github.com/joanalnu/thermal_analysis/.github/COLLABORATING.md). I'll be happy to get to know you and work together.
 
 # Citation
 Please, use this citation when referring to this repository, source code, modified and derivative versions of it.
@@ -76,9 +76,8 @@ Please, use this citation when referring to this repository, source code, modifi
 ```
 
 # Acknowledge
-I would like to thank Maximilan Langheinrich for feedback.
+I would like to thank Maximilan Langheinrich at IMF-DLR for feedback.
 
 Also, I acknowledge the use of the following python libraries: gdal, numpy, matplotlib, and os
-
 
 &copy; 2024 joanalnu (Joan Alcaide-Núñez). All rights reserved.
