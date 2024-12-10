@@ -10,7 +10,7 @@ setuptools.setup(
     name="LandSat-8 Thermal Analysis",
     version=1.0,
     author="Joan Alcaide-Núñez",
-    author_email="joanalnu5@gmail.com",
+    author_email="joanalnu@outlook.com",
     description="Code to process LandSat-8 TIR images and compute surface temperature.",
     long_description=long_description,
     long_description_content_type="text/markdown",
