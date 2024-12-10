@@ -5,10 +5,10 @@ Computing surface temperature heatmaps using LandSat-8 publicly available images
 ![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue)
 
 # Copyright
-### **This repository is protected under the default copyright laws, meaning that the repository owner retains all the rights to this source code and no one may reproduce, distribute, or create derivative works from this work. [GitHub Licensing Notice](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)**
+#### **This repository is protected under the default copyright laws, meaning that the repository owner retains all the rights to this source code and no one may reproduce, distribute, or create derivative works from this work. [GitHub Licensing Notice](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)**
 
 
-Please, contact me at [joanalnu5@gmail.com](mailto:joanalnu5@gmail.com) to consider any collaboration or licensing requests. I'll be happy to get to know you and work together.
+Please, contact me at [joanalnu@outlook.com](mailto:joanalnu@outlook.com) to consider any collaboration or licensing requests. I'll be happy to get to know you and work together.
 
 # Citation
 Please, use this citation when referring to this repository, source code, modified and derivative versions of it.
