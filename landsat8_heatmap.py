@@ -1,4 +1,4 @@
-# COmpute heat maps (surface temperature) in Celsius using LandSat-8 B10 (TIR) data.
+# Create heat maps (surface temperature) in Degree Celcius using LandSat-8 B10 (TIR) data.
 # Copyright: 2024 Joan Alcaide-Núñez. All rights reserved.
 
 # import required libraries
@@ -6,6 +6,8 @@ from osgeo import gdal
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
+
+
 
 
 def  compute_surface_temperature(file_path):
