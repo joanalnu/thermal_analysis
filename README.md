@@ -13,7 +13,7 @@ git clone https://github.com/joanalnu/thermal_analysis.git
 ```
 Next, you can install it as a library using pip.
 ```bash
-pip install thermal_analysis
+pip install thermal_analysis/
 ```
 Then you can import the code anywhere like
 ```python
