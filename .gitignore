@@ -1,6 +1,7 @@
 # OS essentials
 .DS_Store
 .venv
+.idea/
 
 # build
 build/

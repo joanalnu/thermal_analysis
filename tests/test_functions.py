@@ -1,7 +1,7 @@
 import pytest
 import numpy as np
 from osgeo import gdal
-from your_module import compute_surface_temperature, generate_histogram, generate_heatmap  # Replace 'your_module' with the actual module name
+from thermal_analysis import compute_surface_temperature, generate_histogram, generate_heatmap
 
 # Sample TIF file path
 SAMPLE_TIF_PATH = 'test-example.TIF'
