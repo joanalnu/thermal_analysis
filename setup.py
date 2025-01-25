@@ -7,7 +7,7 @@ with open("requirements.txt") as requirements_file:
     requirements = requirements_file.read().splitlines()
 
 setuptools.setup(
-    name="l8-thermal",
+    name="l8_thermal",
     version=1.0,
     author="Joan Alcaide-Núñez",
     author_email="joanalnu@outlook.com",
