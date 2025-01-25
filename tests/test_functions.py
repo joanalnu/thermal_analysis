@@ -1,7 +1,8 @@
 import pytest
 import numpy as np
-from osgeo import gdal
-from thermal_analysis import compute_surface_temperature, generate_histogram, generate_heatmap
+# from osgeo import gdal
+import gdal
+from l8_thermal import compute_surface_temperature, generate_histogram, generate_heatmap
 
 # Sample TIF file path
 SAMPLE_TIF_PATH = 'test-example.TIF'

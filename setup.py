@@ -7,7 +7,7 @@ with open("requirements.txt") as requirements_file:
     requirements = requirements_file.read().splitlines()
 
 setuptools.setup(
-    name="LandSat-8 Thermal Analysis",
+    name="l8-thermal",
     version=1.0,
     author="Joan Alcaide-Núñez",
     author_email="joanalnu@outlook.com",

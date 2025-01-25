@@ -6,6 +6,7 @@
 # build
 build/
 .pycache
+l8_thermal.egg-info/
 
 # testing
 tests/LC08_L2SP_193026_20240824_20240831_02_T1_ST_B10.TIF
